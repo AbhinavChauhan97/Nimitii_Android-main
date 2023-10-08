@@ -1,0 +1,6 @@
+include ':AppentusRichEditor'
+include ':AppentusImagePicker'
+include ':AppentusDataSource'
+include ':AppentusBase'
+include ':app'
+rootProject.name = "Nimiti"
